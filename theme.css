@@ -106,6 +106,6 @@
 }
 
 .room-background {
-    background-image: url("http://i.imgur.com/jjLBLRM.png");
+    background-image: url("http://i.imgur.com/jjLBLRM.png") !important;
 }
 
