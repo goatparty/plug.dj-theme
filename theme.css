@@ -1,0 +1,111 @@
+#app-menu {
+    border-right-color: #FAFAFA;
+}
+
+#app-menu .button {
+    background-color: #607D8B;
+    box-shadow: inset 0 0 0 0;
+}
+
+#chat {
+    background-color: #2E7D32;
+}
+
+#chat .cm {
+    background-color: #607D8B;
+    border-bottom: #FFFFFF 0px solid;
+    color: white;
+}
+
+#chat .cm:nth-child(2n+1) {
+    background-color: #B6B6B6;
+    border-bottom: #FFFFFF 0px solid;
+    color: white;
+}
+
+#chat-header {
+    background-color: #1B5E20;
+}
+
+#chat-input {
+    background-color: #ffffff;
+    border-radius: 4px;
+}
+
+#chat-input-field {
+    color: black;
+}
+
+#dj-button {
+    background-color: #607D8B;
+}
+
+#footer {
+    background-color: #2E7D32;
+    box-shadow: inset 0 0 0 0;
+    color: white;
+}
+
+#footer-user .buttons .button {
+    box-shadow: inset 1px 0 0 0 #FFFFFF;
+}
+
+#footer.button {
+    box-shadow: inset 1px 0 0 0 #F9F9F9;
+}
+
+#history-button {
+    background-color: #607D8B;
+    box-shadow: inset 0 0 0 0;
+}
+
+#playlist-button {
+    background-color: #607D8B;
+    background-image: linear-gradient(#607D8B 0px, #607D8B 100%);
+    box-shadow: inset 0 0 0 0;
+}
+
+#plugcubed {
+    background-color: #607D8B;
+    border-right-color: #FAFAFA;
+    box-shadow: inset 0 0 0 0;
+}
+
+#room-bar {
+    color: white;
+}
+
+#room-host {
+    font-style: italic;
+}
+
+.app-header {
+    background-color: #2E7D32;
+    box-shadow: inset 0 0 0 0;
+    color: white;
+    font-family: "Roboto";
+}
+
+.author {
+    font-family: "Roboto";
+    font-style: italic;
+}
+
+.background img {
+    display: none;
+}
+
+.bar-button {
+    box-shadow: inset 0 0 0 0;
+    color: white;
+}
+
+.header-panel-button {
+    background-color: #2E7D32;
+    color: white;
+}
+
+.room-background {
+    background-image: url("http://i.imgur.com/jjLBLRM.png");
+}
+
